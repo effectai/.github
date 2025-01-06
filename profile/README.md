@@ -17,3 +17,6 @@ Join us in creating the decentralized network for human intelligence! Effect is 
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Blowfish Ticket number: 5670
+https://portal.effect.ai
